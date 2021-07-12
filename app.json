@@ -1,14 +1,14 @@
 {
-    "name": "M-STER Auto Filter Bot V4",
+    "name": "LUII",
     "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding",
-    "logo": "https://telegra.ph/file/05b0ad0da32eb0ba24e1e.png",
+    "logo": "https://telegra.ph/file/14f831fef7ece790e7179.jpg",
     "keywords": [
         "Auto",
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://github.com/M-STER-YT",
-    "repository": "https://github.com/M-STER-YT/Adv-Auto-Filter-Bot-V2",
+    "website": "https://github.com/AutoFilterV4",
+    "repository": "https://github.com/AutoFilterV4/Musupopz",
     "success_url": "https://telegram.dog/M_STER_TECH",
     "env": {
         "APP_ID": {
