@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/M_STER_TECH"
+                                    '📣JOIN OUR CHANNEL™', url="https://t.me/srsuggestionsmc"
                                 )
                         ]
                     ]
@@ -89,10 +89,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/M_STER_TECH'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/M-STER-YT/Adv-Auto-Filter-Bot-V2')
+        InlineKeyboardButton('Developers', url='https://t.me/punisherofc'),
+        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/AutoFilterV4/Musupopz')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/M_SRER_TECH_GROUP')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/SR_SUGGESTIONS')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
