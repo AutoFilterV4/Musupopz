@@ -38,8 +38,15 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📣JOIN OUR CHANNEL™', url="https://t.me/srsuggestionsmc"
+                                    '⭕ JOIN OUR CHANNEL™ ⭕', url="https://t.me/srsuggestionsmc"
+                                ),
+                    [
+                        [
+                             InlinekeyboardButton
+                                 (
+                                    'JOIN ', url="https://t.me/srsuggestionsmc"
                                 )
+
                         ]
                     ]
                 )
