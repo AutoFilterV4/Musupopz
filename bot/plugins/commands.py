@@ -30,7 +30,7 @@ async def start(bot, update):
             await bot.send_document(
                 chat_id=update.chat.id,
                 document = file_id,
-                caption = f"<code>{file_name}-@srsuggestions.mkv</code>  \n <b>MOVIES CHANNEL 🔻 \n @srsuggestionsseries \n  \n 🔰 THANKS 🔰 </b>",
+                caption = f"<code>{file_name}-@srsuggestions.mkv</code>  \n <b>SRS SERIES🔻 \n @srseriescorner \n FILM CLUB HOUSE🔻 \n @Film_Club_House  \n \n 🔰 THANKS 🔰 </b>",
                 parse_mode="html",
                 reply_to_message_id=update.message_id,
                 reply_markup=InlineKeyboardMarkup(
@@ -64,7 +64,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/M_STER_TECH"
+                                    'Developers', url="https://t.me/srsuggestionsmc"
                                 )
                         ]
                     ]
@@ -83,7 +83,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/M_STER_TECH"
+                                    'Developers', url="https://t.me/srsuggestionsmc"
                                 )
                         ]
                     ]
